@@ -14,7 +14,7 @@ if(!isset($_SESSION['user_id'])){
 
  ?>
 <center>
-    <h1>Jobs</h1>
+    <h1>Jobs - </h1>
 	<section id="contentSection">
 	<center>
 	<section id="sliderSection">
